@@ -1,0 +1,6 @@
+# Línea 1: número (ej: +54912345678)
+# Línea 2 en adelante: mensaje
+# ----------------------------------
+
++54912345678
+Hola, escribe aquí tu mensaje
